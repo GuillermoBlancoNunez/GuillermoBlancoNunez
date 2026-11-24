@@ -66,17 +66,13 @@ Segmentación semántica con solo 50 imágenes y desbalance extremo (fluido = 1,
 
 PWA construida y operada en solitario: **100+ usuarios, 24 ligas privadas y 4.100+ predicciones**. PostgreSQL con Row-Level Security, motor de puntuación *serverless* idempotente, chat en tiempo real y panel de administración. 👉 [Demo](https://picksmundial.vercel.app)
 
-#### 💰 FinanceCheck
-<img src="assets/finance.svg" width="100%">
-
-Gestor de finanzas personales instalable (PWA): diario de gastos, proyección con escenarios, IRPF 2026, rentabilidad real y contabilidad por partida doble generada a partir de un *ledger* auditable.
-
 #### 📚 Más proyectos
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [Spotify genre classification](https://github.com/fizge/spotify_model) | Con [@fizge](https://github.com/fizge): clasificación de 3.500 canciones en 10 géneros (mejor modelo SVM, 64 % vs 10 % azar) | Julia (MLJ), Python |
 | [Data Mining & Neural Networks (ISS UDC)](https://github.com/GuillermoBlancoNunez/DataMining_NeuralNetworks_ISS) | Trabajos del curso de la International Summer School | Python, Jupyter |
 | [Dog Breeds Classification](https://github.com/GuillermoBlancoNunez/DogBreedsClassification) | Clasificación de razas de perro con deep learning | Python, Jupyter |
+| FinanceCheck | Gestor de finanzas personales (PWA) con contabilidad por partida doble e IRPF | JavaScript |
 | JungleBook SMA | Sistema multiagente | C# |
 | NOAA Storm Events DW | Data warehouse (Kimball), ETL con Apache Hop y Power BI | SQL, Apache Hop |
 
@@ -125,16 +121,12 @@ Semantic segmentation with only 50 images and extreme class imbalance (fluid = 1
 
 Solo-built and operated PWA: **100+ users, 24 private leagues, 4,100+ predictions**. PostgreSQL with Row-Level Security, idempotent serverless scoring engine, real-time chat and admin panel. 👉 [Demo](https://picksmundial.vercel.app)
 
-#### 💰 FinanceCheck
-<img src="assets/finance_en.svg" width="100%">
-
-Installable personal-finance PWA: expense journal, scenario projections, Spanish income tax (2026), real returns and double-entry bookkeeping generated from an auditable ledger.
-
 #### 📚 More projects
 | Project | Description | Stack |
 |---|---|---|
 | [Spotify genre classification](https://github.com/fizge/spotify_model) | With [@fizge](https://github.com/fizge): 3,500 songs into 10 genres (best: SVM, 64 % vs 10 % chance) | Julia (MLJ), Python |
 | [Data Mining & Neural Networks (ISS UDC)](https://github.com/GuillermoBlancoNunez/DataMining_NeuralNetworks_ISS) | Coursework from the UDC International Summer School | Python, Jupyter |
 | [Dog Breeds Classification](https://github.com/GuillermoBlancoNunez/DogBreedsClassification) | Dog breed classification with deep learning | Python, Jupyter |
+| FinanceCheck | Personal-finance PWA with double-entry bookkeeping and tax estimates | JavaScript |
 | JungleBook SMA | Multi-agent system | C# |
 | NOAA Storm Events DW | Data warehouse (Kimball), Apache Hop ETL and Power BI | SQL, Apache Hop |
